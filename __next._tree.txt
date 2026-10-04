@@ -1,3 +1,3 @@
 :HL["/yinchuan-registration-site/_next/static/chunks/10f5o8mbk9zk3.css","style"]
 :HL["/yinchuan-registration-site/_next/static/chunks/27bcdb4p131yd.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"g-rAxaV_Cl0blehmMaF42"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"OJoHzE6BlCgdG-AXwmMQD"}
